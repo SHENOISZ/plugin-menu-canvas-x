@@ -32,6 +32,8 @@
             <!--  /plugin menu canvas mobile  -->
         </div>
 ```
+<br>
+<br>
 
 ![CSCore Logo](https://raw.githubusercontent.com/SHENOISZ/plugin-menu-canvas-x/master/menu-canvas-x/Assets/images/example-1.png)
 
