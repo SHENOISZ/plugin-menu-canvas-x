@@ -2,17 +2,17 @@
 
 ### Add css and js in your page. jQuery is required. ###
 
-`
+```
 <link href="Assets/css/menu-canvas-x.plugin.min.css" rel="stylesheet">
-`
+```
 
-`
+```
 <script src="Assets/js/menu-canvas-x.plugin.min.js"></script>
-`
+```
 
 ###  Add html
 
-`
+```
 <div class="content-menu">
             <!--  plugin menu canvas mobile  -->
             <div class="btn-mobile-menu">
@@ -31,7 +31,7 @@
             </div>
             <!--  /plugin menu canvas mobile  -->
         </div>
-`
+```
 
 ![CSCore Logo](https://raw.githubusercontent.com/SHENOISZ/plugin-menu-canvas-x/master/menu-canvas-x/Assets/images/example-1.png)
 
