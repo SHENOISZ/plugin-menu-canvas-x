@@ -13,7 +13,7 @@
 ###  Add html
 
 ```
-<div class="content-menu">
+        <div class="content-menu">
             <!--  plugin menu canvas mobile  -->
             <div class="btn-mobile-menu">
                 <i class="icon-mobile-menu-1"></i>
