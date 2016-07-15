@@ -38,7 +38,7 @@ body {
 
 /* or only mobile
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
     .btn-mobile-menu {
         display: block;
     }

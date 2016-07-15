@@ -78,7 +78,7 @@ mobile_menu.click( toggleMenu );
 area_all.click( toggleMenu );
 
 /* tamanho maximo da pagina  */
-var max_width = 800;
+var max_width = 768;
 
 window.onresize = function ( ) {
 
