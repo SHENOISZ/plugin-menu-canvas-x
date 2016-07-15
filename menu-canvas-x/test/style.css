@@ -1,0 +1,47 @@
+body {
+    background-color: #555555;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    position: relative;
+    width: 90%;
+    height: 1080px;
+    top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-info {
+    width: auto;
+    margin-left: 10px;
+}
+
+.content-menu {
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    top: -10px;
+    right: 0;
+    z-index: 99;
+}
+
+
+/* display default is none */
+
+.btn-mobile-menu {
+    display: block;
+}
+
+
+/* or 
+
+@media (max-width: 800px) {
+    .btn-mobile-menu {
+        display: block;
+    }
+}
+
+*/

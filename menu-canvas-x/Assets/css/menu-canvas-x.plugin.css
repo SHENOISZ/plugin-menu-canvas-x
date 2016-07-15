@@ -1,0 +1,124 @@
+/* author shenoisz  */
+
+.btn-mobile-menu-bar ul, li {
+    list-style: none;
+}
+
+.btn-mobile-menu-listagens {
+    position: relative;
+    left: -40px;
+}
+
+.btn-mobile-menu-lista li {
+    position: relative;
+    left: -20px;
+}
+
+.btn-mobile-menu-lista li a {
+    position: relative;
+    text-align: left;
+}
+
+.btn-mobile-menu {
+    position: relative;
+    margin-right: 30px;
+    float: right;
+    top: 12px;
+    width: 40px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: none;
+}
+
+.btn-menu-efect {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background-color: #FFFFFF;
+    border-radius: 3px;
+    top: 13px;
+    left: 18px;
+    text-align: center;
+    opacity: 0.0;
+}
+
+.btn-mobile-menu .icon-mobile-menu-1,
+.icon-mobile-menu-2, .icon-mobile-menu-3 {
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    background-color: #FFFFFF;
+    left: 5px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.btn-mobile-menu .icon-mobile-menu-1 {
+    top: 5px;
+}
+
+.btn-mobile-menu .icon-mobile-menu-2 {
+    top: 12px;
+}
+
+.btn-mobile-menu .icon-mobile-menu-3 {
+    top: 19px;
+}
+
+.btn-mobile-menu-rotate .icon-mobile-menu-1 {
+    transform: rotate( -40deg );
+    -webkit-transform: rotate( -40deg );
+    -o-transform:  rotate( -40deg );
+    -ms-transform: rotate( -40deg );
+    top: 12px;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    -moz-animation: 0.3s;
+    transition: 0.3s;
+}
+
+.btn-mobile-menu-rotate .icon-mobile-menu-2 {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    -moz-animation: 0.3s;
+    transition: 0.3s;
+    opacity: 0;
+    filter: alpha( opacity=0 );
+}
+
+.btn-mobile-menu-rotate .icon-mobile-menu-3 {
+    transform: rotate( 40deg );
+    -webkit-transform: rotate( 40deg );
+    -o-transform:  rotate( 40deg );
+    -ms-transform: rotate( 40deg );
+    top: 12px;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    -moz-animation: 0.3s;
+    transition: 0.3s;
+}
+
+/* configuraçoes da aba lateral menu  */
+
+.btn-mobile-menu-bar-all {
+    position: fixed;
+    top: 60px;
+    right: 0;
+    width: 100%;
+    background-color: rgba( 33, 33, 33, 0.70 );
+    height: 100%;
+    z-index: 99;
+    display: none;
+}
+
+.btn-mobile-menu-bar {
+    position: fixed;
+    top: 60px;
+    right: 0;
+    width: 0;
+    background-color: rgb( 240, 240, 240 );
+    height: 600px;
+    z-index: 99;
+}
