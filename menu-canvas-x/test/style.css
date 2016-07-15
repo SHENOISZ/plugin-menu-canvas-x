@@ -36,7 +36,7 @@ body {
 }
 
 
-/* or 
+/* or only mobile
 
 @media (max-width: 800px) {
     .btn-mobile-menu {
