@@ -6,7 +6,7 @@ bower install plugin-menu-canvas-x
 ```
 ### Or make download ###
 
-### Add css and js in your page. jQuery is required. ###
+### Add css and js in your page. jQuery >= 2.2.4 is required. ###
 
 ```
 <link href="Assets/css/menu-canvas-x.plugin.min.css" rel="stylesheet">
