@@ -1,0 +1,26 @@
+{
+  "name": "plugin-menu-canvas-x",
+  "homepage": "https://github.com/SHENOISZ/plugin-menu-canvas-x",
+  "authors": [
+    "SHENOISZ <marcelo.net.system@gmail.com>"
+  ],
+  "description": "Menu web create with js and css",
+  "main": "",
+  "keywords": [
+    "css",
+    "js",
+    "menu",
+    "mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
