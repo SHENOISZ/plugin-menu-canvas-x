@@ -1,5 +1,11 @@
 # plugin menu canvas x #
 
+### Install ###
+```
+bower install plugin-menu-canvas-x
+```
+### Or make download ###
+
 ### Add css and js in your page. jQuery is required. ###
 
 ```
